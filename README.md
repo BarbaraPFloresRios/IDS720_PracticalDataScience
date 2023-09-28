@@ -8,6 +8,7 @@ We completed many of them during our classes, often working together with classm
 2. [ExerciseNumpyVectors](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20230921_ExerciseNumpyVectors)
 3. [ExerciseNumpyViewcopies](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20230926_ExerciseNumpyViewcopies)
 4. [ExerciseSeries](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20230928_ExerciseSeries)
+5. [ExerciseDataframes](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20231003_ExerciseDataframes)
 
 
 The authors' names of the solutions are included in the corresponding Jupyter notebooks.
