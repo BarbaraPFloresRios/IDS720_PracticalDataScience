@@ -1,3 +1,5 @@
-Authors:
+# IDS720_PracticalDataScience_ExerciseNumpyVectors
+
 Matthew Holden
-Bárbara Flores
+
+Barbara Flores
