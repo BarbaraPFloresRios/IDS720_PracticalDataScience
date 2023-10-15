@@ -9,8 +9,8 @@ We completed many of them during our classes, often working together with classm
 3. [ExerciseNumpyViewcopies](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20230926_ExerciseNumpyViewcopies/Exercise_numpy_viewcopies.ipynb)
 4. [ExerciseSeries](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20230928_ExerciseSeries/Exercise_series.ipynb)
 5. [ExerciseDataframes](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231003_ExerciseDataframes/Exercise_dataframes.ipynb)
-6. [ExerciseMissing](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20231005_ExerciseMissing)
-7. [ExerciseCleaning](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20231010_ExerciseCleaning)
+6. [ExerciseMissing](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231005_ExerciseMissing/Exercise_missing.ipynb)
+7. [ExerciseCleaning](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231010_ExerciseCleaning/Exercise_cleaning.ipynb)
 8. [Exercise_merging](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231019_ExerciseMerging/exercise_merging.ipynb)
 
 
