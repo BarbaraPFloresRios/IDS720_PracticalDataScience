@@ -11,7 +11,7 @@ We completed many of them during our classes, often working together with classm
 5. [ExerciseDataframes](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231003_ExerciseDataframes/Exercise_dataframes.ipynb)
 6. [ExerciseMissing](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231005_ExerciseMissing/Exercise_missing.ipynb)
 7. [ExerciseCleaning](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231010_ExerciseCleaning/Exercise_cleaning.ipynb)
-8. [Exercise_merging](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231019_ExerciseMerging/Exercise_merging.ipynb)
+8. [ExerciseMerging](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231019_ExerciseMerging/Exercise_merging.ipynb)
 
 
 The authors' names of the solutions are included in the corresponding Jupyter notebooks.
