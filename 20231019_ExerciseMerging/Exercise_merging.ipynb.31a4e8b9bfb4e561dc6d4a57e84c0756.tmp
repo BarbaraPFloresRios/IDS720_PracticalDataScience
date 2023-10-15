@@ -1,3 +1,0 @@
-df2_correct = df2.copy()
-df2_correct.loc[df2.key == "Key2", "key"] = "key2"
-pd.merge(df1, df2_correct, on="key", how="outer")

@@ -1,2 +1,0 @@
-df2 = pd.DataFrame({"key": ["key1", "Key2"], "df2_var": ["a", "b"]})
-df2

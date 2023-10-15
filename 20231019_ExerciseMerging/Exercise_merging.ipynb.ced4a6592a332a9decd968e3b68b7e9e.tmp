@@ -1,4 +1,0 @@
-ca_arrests_2009_with_population = pd.merge(
-    ca_arrests_2009, nhgis_county_populations_ca_2005_2009, how="left", on="COUNTY"
-)
-ca_arrests_2009_with_population.sample(5)
