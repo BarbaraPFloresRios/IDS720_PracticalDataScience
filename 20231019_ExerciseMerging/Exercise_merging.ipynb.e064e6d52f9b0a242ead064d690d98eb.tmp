@@ -1,5 +1,0 @@
-results = dict()
-ex6_validate_keyword = "one-to-one"
-results["ex6_validate_keyword"] = ex6_validate_keyword
-
-print(f"The type of merge accomplished was: {ex6_validate_keyword}")

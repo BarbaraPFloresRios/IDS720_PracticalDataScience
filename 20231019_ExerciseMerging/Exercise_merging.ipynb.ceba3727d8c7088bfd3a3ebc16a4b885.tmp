@@ -1,3 +1,0 @@
-nhgis_county_populations[nhgis_county_populations["STATE"] == "California"][
-    "YEAR"
-].value_counts()
