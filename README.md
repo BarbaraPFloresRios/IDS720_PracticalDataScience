@@ -4,11 +4,11 @@ This repository archives and shares my `'Practical Data Science'` class assignme
 In this repository, you'll find tasks and assignments from `Nick Eubank`'s class. 
 We completed many of them during our classes, often working together with classmates.
 
-1. [MyFirstNotebook](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20230914_MyFirstNotebook)
-2. [ExerciseNumpyVectors](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20230921_ExerciseNumpyVectors)
-3. [ExerciseNumpyViewcopies](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20230926_ExerciseNumpyViewcopies)
-4. [ExerciseSeries](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20230928_ExerciseSeries)
-5. [ExerciseDataframes](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20231003_ExerciseDataframes)
+1. [MyFirstNotebook](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20230914_MyFirstNotebook/first_jupyter_notebook.ipynb)
+2. [ExerciseNumpyVectors](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20230921_ExerciseNumpyVectors/exercise_numpy_vectors.ipynb)
+3. [ExerciseNumpyViewcopies](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20230926_ExerciseNumpyViewcopies/Exercise_numpy_viewcopies.ipynb)
+4. [ExerciseSeries](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20230928_ExerciseSeries/exercise_series.ipynb)
+5. [ExerciseDataframes](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231003_ExerciseDataframes/Exercise_dataframes.ipynb)
 6. [ExerciseMissing](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20231005_ExerciseMissing)
 7. [ExerciseCleaning](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20231010_ExerciseCleaning)
 8. [Exercise_merging](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231019_ExerciseMerging/exercise_merging.ipynb)
