@@ -1,0 +1,9 @@
+import pandas as pd
+
+pd.set_option("mode.copy_on_write", True)
+
+# Download the data
+ca_arrests_2009 = pd.read_csv(
+    "https://raw.githubusercontent.com/nickeubank/practicaldatascience/master"
+    "/Example_Data/ca/ca_arrests_2009.csv"
+)

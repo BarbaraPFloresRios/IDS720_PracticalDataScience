@@ -1,0 +1,6 @@
+nhgis_county_populations_ca_2005_2009 = nhgis_county_populations[
+    (nhgis_county_populations["STATE"] == "California")
+    & (nhgis_county_populations["YEAR"] == "2005-2009")
+]
+
+nhgis_county_populations_ca_2005_2009.sample(5)

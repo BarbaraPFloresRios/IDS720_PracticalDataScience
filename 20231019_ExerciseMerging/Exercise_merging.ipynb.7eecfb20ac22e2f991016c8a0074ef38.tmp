@@ -1,0 +1,7 @@
+import pandas as pd
+import numpy as np
+
+pd.set_option("mode.copy_on_write", True)
+
+df1 = pd.DataFrame({"key": ["key1", "key2"], "df1_var": [1, 2]})
+df1

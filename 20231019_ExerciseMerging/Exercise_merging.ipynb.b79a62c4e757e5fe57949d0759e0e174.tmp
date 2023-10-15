@@ -1,0 +1,5 @@
+nhgis_county_populations = pd.read_csv(
+    "https://raw.githubusercontent.com/nickeubank/practicaldatascience/master"
+    "/Example_Data/ca/nhgis_county_populations.csv"
+)
+nhgis_county_populations.sample(5)
