@@ -1,0 +1,2 @@
+new_data = pd.merge(df1, df2, on="key", how="outer", indicator=True)
+new_data._merge.value_counts()

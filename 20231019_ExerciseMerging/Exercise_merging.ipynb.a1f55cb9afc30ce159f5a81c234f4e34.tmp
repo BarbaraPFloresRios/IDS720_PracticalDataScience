@@ -1,0 +1,2 @@
+# Explore the data
+ca_arrests_2009.sample(5)

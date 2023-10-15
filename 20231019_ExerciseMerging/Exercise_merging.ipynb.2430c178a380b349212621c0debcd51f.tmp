@@ -1,0 +1,8 @@
+ca_arrests_2009_2018 = pd.merge(
+    ca_arrests_2009_with_population_correct,
+    ca_arrests_2018_with_population_correct,
+    how="outer",
+    on="COUNTY",
+)
+
+ca_arrests_2009_2018.sample(3)

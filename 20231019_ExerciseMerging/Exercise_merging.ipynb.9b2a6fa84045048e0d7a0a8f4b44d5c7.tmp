@@ -1,0 +1,15 @@
+ca_arrests_2018 = pd.read_csv(
+    "https://raw.githubusercontent.com/nickeubank/practicaldatascience/master"
+    "/Example_Data/ca/ca_arrests_2018.csv"
+)
+
+ca_arrests_2018_with_population_correct = pd.merge(
+    ca_arrests_2018,
+    nhgis_county_populations_ca_2005_2009_correct,
+    how="outer",
+    on="COUNTY",
+    validate="1:1",
+    indicator=True,
+)
+
+ca_arrests_2018_with_population_correct._merge.value_counts()

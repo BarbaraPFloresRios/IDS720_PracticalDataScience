@@ -1,0 +1,4 @@
+ex16_num_obs = ca_arrests_2009_2018.shape[0]
+results["ex16_num_obs"] = ex16_num_obs
+
+print(f"There were {ex16_num_obs} observations in the final dataset after merging.")

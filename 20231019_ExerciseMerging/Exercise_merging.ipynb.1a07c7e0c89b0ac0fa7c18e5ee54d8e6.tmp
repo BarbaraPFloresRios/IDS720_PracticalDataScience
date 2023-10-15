@@ -1,0 +1,8 @@
+ex10_merged_successfully = ca_arrests_2009_with_population[
+    ca_arrests_2009_with_population._merge == "both"
+].shape[0]
+results["ex10_merged_successfully"] = ex10_merged_successfully
+
+print(
+    f"There were {ex10_merged_successfully} observations that successfully merged (were in both datasets)"
+)

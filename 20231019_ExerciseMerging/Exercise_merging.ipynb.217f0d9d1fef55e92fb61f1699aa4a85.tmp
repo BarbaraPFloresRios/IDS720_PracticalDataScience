@@ -1,0 +1,23 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
+ca_arrests_2009_with_population_correct.plot(
+    x="violent_arrest_rate_2009",
+    y="drug_arrest_rate_2009",
+    kind="scatter",
+    title="Relationship Between Violent Arrest Rate and Drug Arrest Rate by County",
+)
+
+z = np.polyfit(
+    ca_arrests_2009_with_population_correct["violent_arrest_rate_2009"],
+    ca_arrests_2009_with_population_correct["drug_arrest_rate_2009"],
+    1,
+)
+p = np.poly1d(z)
+plt.plot(
+    ca_arrests_2009_with_population_correct["violent_arrest_rate_2009"],
+    p(ca_arrests_2009_with_population_correct["violent_arrest_rate_2009"]),
+    "r--",
+)
+
+plt.show()
