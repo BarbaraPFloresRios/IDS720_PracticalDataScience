@@ -9,6 +9,9 @@ We completed many of them during our classes, often working together with classm
 3. [ExerciseNumpyViewcopies](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20230926_ExerciseNumpyViewcopies)
 4. [ExerciseSeries](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20230928_ExerciseSeries)
 5. [ExerciseDataframes](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20231003_ExerciseDataframes)
+6. [ExerciseMissing](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20231005_ExerciseMissing)
+7. [ExerciseCleaning](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20231010_ExerciseCleaning)
+8. [Exercise_merging](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231019_ExerciseMerging/exercise_merging.ipynb)
 
 
 The authors' names of the solutions are included in the corresponding Jupyter notebooks.
