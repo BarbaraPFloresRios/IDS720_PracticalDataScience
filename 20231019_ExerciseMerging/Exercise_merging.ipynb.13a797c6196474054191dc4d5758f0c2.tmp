@@ -1,9 +1,0 @@
-assert set(results.keys()) == {
-    "ex6_validate_keyword",
-    "ex10_merged_successfully",
-    "ex16_num_obs",
-    "ex17_drug_change",
-    "ex18_violent_change",
-    "ex21_diffindiff",
-    "ex23_diffindiff_proportionate",
-}
