@@ -1,0 +1,13 @@
+## QUIZAS ES ESTE EL RESULTADO
+
+a = (
+    ca_arrests_2009_2018_high_drug_arrests_2009["violent_arrest_rate_2018"]
+    - ca_arrests_2009_2018_high_drug_arrests_2009["violent_arrest_rate_2009"]
+) / ca_arrests_2009_2018_high_drug_arrests_2009["violent_arrest_rate_2009"]
+
+b = (
+    ca_arrests_2009_2018_low_drug_arrests_2009["violent_arrest_rate_2018"]
+    - ca_arrests_2009_2018_low_drug_arrests_2009["violent_arrest_rate_2009"]
+) / ca_arrests_2009_2018_low_drug_arrests_2009["violent_arrest_rate_2009"]
+
+a.mean() - b.mean()

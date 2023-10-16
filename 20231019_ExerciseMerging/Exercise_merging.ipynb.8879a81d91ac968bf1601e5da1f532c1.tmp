@@ -1,0 +1,11 @@
+# "First, we create the variables violent_arrest_rate_2018 and drug_arrest_rate_2018 for this dataset."
+
+ca_arrests_2018_with_population_correct["violent_arrest_rate_2018"] = (
+    ca_arrests_2018_with_population_correct["VIOLENT"]
+    / ca_arrests_2018_with_population_correct["total_population"]
+)
+
+ca_arrests_2018_with_population_correct["drug_arrest_rate_2018"] = (
+    ca_arrests_2018_with_population_correct["F_DRUGOFF"]
+    / ca_arrests_2018_with_population_correct["total_population"]
+)

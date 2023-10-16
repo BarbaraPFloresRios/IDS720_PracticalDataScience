@@ -1,0 +1,7 @@
+# We remove the _merge columns to avoid potential issues when performing the next merge.
+ca_arrests_2009_with_population_correct = ca_arrests_2009_with_population_correct.drop(
+    columns=["_merge"]
+)
+ca_arrests_2018_with_population_correct = ca_arrests_2018_with_population_correct.drop(
+    columns=["_merge"]
+)

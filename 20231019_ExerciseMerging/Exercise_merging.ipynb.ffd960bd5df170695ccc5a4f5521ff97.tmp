@@ -1,0 +1,13 @@
+nhgis_county_populations_ca_2005_2009_correct = (
+    nhgis_county_populations_ca_2005_2009.copy()
+)
+nhgis_county_populations_ca_2005_2009_correct[
+    "COUNTY"
+] = nhgis_county_populations_ca_2005_2009_correct["COUNTY"].replace(
+    "DelNorte County", "Del Norte County"
+)
+nhgis_county_populations_ca_2005_2009_correct[
+    "COUNTY"
+] = nhgis_county_populations_ca_2005_2009_correct["COUNTY"].replace(
+    "Injo County", "Inyo County"
+)

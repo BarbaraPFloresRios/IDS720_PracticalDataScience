@@ -1,0 +1,10 @@
+ca_arrests_2009_with_population = pd.merge(
+    ca_arrests_2009,
+    nhgis_county_populations_ca_2005_2009,
+    how="outer",
+    on="COUNTY",
+    validate="1:1",
+    indicator=True,
+)
+
+ca_arrests_2009_with_population._merge.value_counts()

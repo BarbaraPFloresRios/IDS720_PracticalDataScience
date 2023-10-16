@@ -1,0 +1,15 @@
+ca_arrests_2009_2018["violent_arrest_change"] = (
+    ca_arrests_2009_2018["violent_arrest_rate_2018"]
+    - ca_arrests_2009_2018["violent_arrest_rate_2009"]
+)
+
+violent_arrest_rate_2009_mean = ca_arrests_2009_2018["violent_arrest_rate_2009"].mean()
+violent_arrest_rate_2018_mean = ca_arrests_2009_2018["violent_arrest_rate_2018"].mean()
+
+ex18_violent_change = ca_arrests_2009_2018["violent_arrest_change"].mean()
+results["ex18_violent_change"] = ex18_violent_change
+
+print(
+    f"Based on the calculations, we can see that the average county-level change in violent arrests per capita was {ex18_violent_change:.4f}\n"
+    f"from {violent_arrest_rate_2009_mean:.4f} to {violent_arrest_rate_2018_mean:.4f} arrest rate, which supports the hypothesis that it should decrease given the new law."
+)

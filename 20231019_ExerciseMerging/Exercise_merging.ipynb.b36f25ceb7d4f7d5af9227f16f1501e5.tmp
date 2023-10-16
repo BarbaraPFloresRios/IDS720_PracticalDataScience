@@ -1,0 +1,35 @@
+##ESTE ESTABA MALO
+
+high_drug_arrests_violent_arrest_rate_2009_mean = (
+    ca_arrests_2009_2018_high_drug_arrests_2009["violent_arrest_rate_2009"].mean()
+)
+high_drug_arrests_violent_arrest_rate_2018_mean = (
+    ca_arrests_2009_2018_high_drug_arrests_2009["violent_arrest_rate_2018"].mean()
+)
+low_drug_arrests_violent_arrest_rate_2009_mean = (
+    ca_arrests_2009_2018_low_drug_arrests_2009["violent_arrest_rate_2009"].mean()
+)
+low_drug_arrests_violent_arrest_rate_2018_mean = (
+    ca_arrests_2009_2018_low_drug_arrests_2009["violent_arrest_rate_2018"].mean()
+)
+
+ex23_diffindiff_proportionate = 100 * (
+    (
+        high_drug_arrests_violent_arrest_rate_2018_mean
+        - high_drug_arrests_violent_arrest_rate_2009_mean
+    )
+    / high_drug_arrests_violent_arrest_rate_2009_mean
+) - 100 * (
+    (
+        low_drug_arrests_violent_arrest_rate_2018_mean
+        - low_drug_arrests_violent_arrest_rate_2009_mean
+    )
+    / low_drug_arrests_violent_arrest_rate_2009_mean
+)
+
+results["ex23_diffindiff_proportionate"] = ex23_diffindiff_proportionate
+
+print(
+    f"After analyzing the data, it is evident that violent crime changed more from 2009 to 2018 in counties with a high number of drug arrests\n"
+    f"compared to counties with fewer drug arrests. The estimated proportionate change in violent crime rate per capita is {ex23_diffindiff_proportionate:.4f}%.\n"
+)

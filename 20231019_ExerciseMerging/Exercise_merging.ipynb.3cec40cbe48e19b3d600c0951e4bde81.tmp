@@ -1,0 +1,15 @@
+ca_arrests_2009_2018["drug_arrest_change"] = (
+    ca_arrests_2009_2018["drug_arrest_rate_2018"]
+    - ca_arrests_2009_2018["drug_arrest_rate_2009"]
+)
+
+drug_arrest_rate_2009_mean = ca_arrests_2009_2018["drug_arrest_rate_2009"].mean()
+drug_arrest_rate_2018_mean = ca_arrests_2009_2018["drug_arrest_rate_2018"].mean()
+
+ex17_drug_change = ca_arrests_2009_2018["drug_arrest_change"].mean()
+results["ex17_drug_change"] = ex17_drug_change
+
+print(
+    f"Based on the calculations, we can see that the average county-level change in drug arrests per capita was {ex17_drug_change:.4f}\n"
+    f"from {drug_arrest_rate_2009_mean:.4f} to {drug_arrest_rate_2018_mean:.4f} arrest rate, which supports the hypothesis that it should decrease given the new law."
+)

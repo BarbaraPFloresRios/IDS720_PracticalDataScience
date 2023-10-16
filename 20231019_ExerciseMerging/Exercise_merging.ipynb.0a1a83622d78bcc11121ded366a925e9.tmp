@@ -1,0 +1,14 @@
+# "Now we merge the datasets ca_arrests_2009_with_population_correct and ca_arrests_2018_with_population_correct.
+# And we validate the result using the validate, indicator, and value_counts methods."
+
+ca_arrests_2009_2018 = pd.merge(
+    ca_arrests_2009_with_population_correct,
+    ca_arrests_2018_with_population_correct,
+    how="outer",
+    on="COUNTY",
+    suffixes=("_2009", "_2018"),
+    validate="1:1",
+    indicator=True,
+)
+
+ca_arrests_2009_2018._merge.value_counts()
