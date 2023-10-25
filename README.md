@@ -13,7 +13,6 @@ We completed many of them during our classes, often working together with classm
 7. [ExerciseCleaning](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231010_ExerciseCleaning/Exercise_cleaning.ipynb)
 8. [ExerciseMerging](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231019_ExerciseMerging/Exercise_merging.ipynb)
 9. [ExercisePlottingPart1](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20231019_ExercisePlottingPart1)
-
 10.[ExercisePlottingPart2](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20231026_ExercisePlottingPart2)
 
 
