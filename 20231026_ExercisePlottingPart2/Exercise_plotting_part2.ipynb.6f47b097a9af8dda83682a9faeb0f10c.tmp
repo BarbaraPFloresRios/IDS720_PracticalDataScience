@@ -1,0 +1,13 @@
+# We plot again
+(
+    so.Plot(filtered_WDI, x="log_gdppcap08", y="polityIV")
+    .add(so.Lines(), Lowess())
+    # .add(so.Dot())
+    .add(so.Text(fontsize=15), text="country")
+    .layout(size=(17, 12))
+    .label(
+        x="Log GDP per Capita (USD)",
+        y="Polity IV Score",
+        title=" GDP per Capita vs Polity IV Democracy Scores",
+    )
+)

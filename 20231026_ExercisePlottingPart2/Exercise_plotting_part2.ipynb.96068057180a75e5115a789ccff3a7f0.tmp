@@ -1,0 +1,2 @@
+n = len(WDI[WDI["country"].isin(excluded_countries)])
+print(f"The number of correctly identified major oil producers is {n}")
