@@ -12,9 +12,11 @@ We completed many of them during our classes, often working together with classm
 6.  [ExerciseMissing](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231005_ExerciseMissing/Exercise_missing.ipynb)
 7.  [ExerciseCleaning](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231010_ExerciseCleaning/Exercise_cleaning.ipynb)
 8.  [ExerciseMerging](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231019_ExerciseMerging/Exercise_merging.ipynb)
-9.  [ExercisePlottingPart1](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20231019_ExercisePlottingPart1)
-10. [ExercisePlottingPart2](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20231026_ExercisePlottingPart2)
-11. [ExerciseBigData](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/tree/main/20231031_ExerciseBigData)
+9.  [ExercisePlottingPart1](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231019_ExercisePlottingPart1/Exercise_plotting_part1.ipynb)
+10. [ExercisePlottingPart2](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231026_ExercisePlottingPart2/Exercise_plotting_part2.ipynb)
+11. [ExerciseBigData](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231031_ExerciseBigData/Exercise_bigdata.ipynb)
+12. [ExerciseGroupBy](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231107_ExerciseGroupBy/exercise_groupby.ipynb)
+13. [ExerciseStatsmodel](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231116_ExerciseStatsmodels/Exercise_statsmodels.ipynb)
 
 
 The authors' names of the solutions are included in the corresponding Jupyter notebooks.
