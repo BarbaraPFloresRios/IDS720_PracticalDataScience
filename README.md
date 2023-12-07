@@ -6,6 +6,7 @@ We completed many of them during our classes, often working together with classm
 You can view the class and materials prepared by Nick Eubank (highly recommended) at the following link: [https://www.practicaldatascience.org/html/index.html](https://www.practicaldatascience.org/html/index.html)
 
 
+
 1.  [MyFirstNotebook](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20230914_MyFirstNotebook/First_jupyter_notebook.ipynb)
 2.  [ExerciseNumpyVectors](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20230921_ExerciseNumpyVectors/Exercise_numpy_vectors.ipynb)
 3.  [ExerciseNumpyViewcopies](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20230926_ExerciseNumpyViewcopies/Exercise_numpy_viewcopies.ipynb)
@@ -21,6 +22,7 @@ You can view the class and materials prepared by Nick Eubank (highly recommended
 13. [ExerciseStatsmodel](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231116_ExerciseStatsmodels/Exercise_statsmodels.ipynb)
 14. [ExerciseSklearn](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231121_ExerciseSklearn/exercise_sklearn.ipynb)
 15. [ExerciseCodeYourOwnLinearRegression](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231128_ExerciseCodeYourOwnLinearRegression/Exercise_codeyourownlinearregression.ipynb)
+16. [Exercise_DaskRealData](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231205_ExerciseDaskRaldata/Exercise_dask_realdata.ipynb)
 
 
 
