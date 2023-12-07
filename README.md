@@ -22,7 +22,7 @@ You can view the class and materials prepared by Nick Eubank (highly recommended
 13. [ExerciseStatsmodel](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231116_ExerciseStatsmodels/Exercise_statsmodels.ipynb)
 14. [ExerciseSklearn](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231121_ExerciseSklearn/exercise_sklearn.ipynb)
 15. [ExerciseCodeYourOwnLinearRegression](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231128_ExerciseCodeYourOwnLinearRegression/Exercise_codeyourownlinearregression.ipynb)
-16. [Exercise_DaskRealData](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231205_ExerciseDaskRaldata/Exercise_dask_realdata.ipynb)
+16. [ExerciseDaskRealData](https://github.com/BarbaraPFloresRios/IDS720_PracticalDataScience/blob/main/20231205_ExerciseDaskRaldata/Exercise_dask_realdata.ipynb)
 
 
 
